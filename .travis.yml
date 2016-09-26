@@ -18,6 +18,6 @@ script:
 notifications:
   email:
     recipients:
-      - llap@cpan.org
+      - jluis@cpan.org
     on_success: change
     on_failure: always
